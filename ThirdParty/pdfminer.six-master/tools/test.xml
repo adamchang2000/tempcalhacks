@@ -1,0 +1,355 @@
+<pdf><object id="1">
+<dict size="3">
+<key>Type</key>
+<value><literal>Pages</literal></value>
+<key>Kids</key>
+<value><list size="1">
+<ref id="6" />
+</list></value>
+<key>Count</key>
+<value><number>1</number></value>
+</dict>
+</object>
+
+<object id="4">
+<dict size="5">
+<key>Type</key>
+<value><literal>Catalog</literal></value>
+<key>Names</key>
+<value><dict size="1">
+<key>JavaScript</key>
+<value><ref id="3" /></value>
+</dict></value>
+<key>PageLabels</key>
+<value><dict size="1">
+<key>Nums</key>
+<value><list size="2">
+<number>0</number>
+<dict size="2">
+<key>S</key>
+<value><literal>D</literal></value>
+<key>St</key>
+<value><number>1</number></value>
+</dict>
+</list></value>
+</dict></value>
+<key>Outlines</key>
+<value><ref id="2" /></value>
+<key>Pages</key>
+<value><ref id="1" /></value>
+</dict>
+</object>
+
+<object id="5">
+<dict size="1">
+<key>Creator</key>
+<value><string size="14">&#254;&#255;&#0;G&#0;o&#0;o&#0;g&#0;l&#0;e</string></value>
+</dict>
+</object>
+
+<object id="6">
+<dict size="7">
+<key>Type</key>
+<value><literal>Page</literal></value>
+<key>Parent</key>
+<value><ref id="1" /></value>
+<key>MediaBox</key>
+<value><list size="4">
+<number>0</number>
+<number>0</number>
+<number>720</number>
+<number>405</number>
+</list></value>
+<key>Contents</key>
+<value><ref id="7" /></value>
+<key>Resources</key>
+<value><ref id="8" /></value>
+<key>Annots</key>
+<value><ref id="10" /></value>
+<key>Group</key>
+<value><dict size="2">
+<key>S</key>
+<value><literal>Transparency</literal></value>
+<key>CS</key>
+<value><literal>DeviceRGB</literal></value>
+</dict></value>
+</dict>
+</object>
+
+<object id="7">
+<stream>
+<props>
+<dict size="2">
+<key>Filter</key>
+<value><literal>FlateDecode</literal></value>
+<key>Length</key>
+<value><ref id="9" /></value>
+</dict>
+</props>
+</stream>
+</object>
+
+<object id="8">
+<dict size="5">
+<key>Font</key>
+<value><dict size="1">
+<key>Font2</key>
+<value><ref id="13" /></value>
+</dict></value>
+<key>Pattern</key>
+<value><dict size="0">
+</dict></value>
+<key>XObject</key>
+<value><dict size="1">
+<key>Image3</key>
+<value><ref id="14" /></value>
+</dict></value>
+<key>ExtGState</key>
+<value><dict size="2">
+<key>Alpha0</key>
+<value><ref id="11" /></value>
+<key>Alpha1</key>
+<value><ref id="12" /></value>
+</dict></value>
+<key>ProcSet</key>
+<value><list size="5">
+<literal>PDF</literal>
+<literal>Text</literal>
+<literal>ImageB</literal>
+<literal>ImageC</literal>
+<literal>ImageI</literal>
+</list></value>
+</dict>
+</object>
+
+<object id="9">
+<number>487</number>
+</object>
+
+<object id="10">
+<list size="0">
+</list>
+</object>
+
+<object id="11">
+<dict size="2">
+<key>CA</key>
+<value><number>1.0</number></value>
+<key>ca</key>
+<value><number>1.0</number></value>
+</dict>
+</object>
+
+<object id="12">
+<dict size="2">
+<key>CA</key>
+<value><number>0</number></value>
+<key>ca</key>
+<value><number>0</number></value>
+</dict>
+</object>
+
+<object id="13">
+<dict size="6">
+<key>Type</key>
+<value><literal>Font</literal></value>
+<key>Subtype</key>
+<value><literal>Type0</literal></value>
+<key>BaseFont</key>
+<value><literal>MUFUZY+ArialMT</literal></value>
+<key>Encoding</key>
+<value><literal>Identity-H</literal></value>
+<key>DescendantFonts</key>
+<value><list size="1">
+<ref id="16" />
+</list></value>
+<key>ToUnicode</key>
+<value><ref id="17" /></value>
+</dict>
+</object>
+
+<object id="14">
+<stream>
+<props>
+<dict size="8">
+<key>Subtype</key>
+<value><literal>Image</literal></value>
+<key>Interpolate</key>
+<value><number>True</number></value>
+<key>Width</key>
+<value><number>960</number></value>
+<key>Height</key>
+<value><number>932</number></value>
+<key>ColorSpace</key>
+<value><literal>DeviceRGB</literal></value>
+<key>BitsPerComponent</key>
+<value><number>8</number></value>
+<key>Filter</key>
+<value><literal>DCTDecode</literal></value>
+<key>Length</key>
+<value><ref id="15" /></value>
+</dict>
+</props>
+</stream>
+</object>
+
+<object id="15">
+<number>55625</number>
+</object>
+
+<object id="16">
+<dict size="8">
+<key>Type</key>
+<value><literal>Font</literal></value>
+<key>Subtype</key>
+<value><literal>CIDFontType2</literal></value>
+<key>BaseFont</key>
+<value><literal>MUFUZY+ArialMT</literal></value>
+<key>CIDSystemInfo</key>
+<value><dict size="3">
+<key>Registry</key>
+<value><string size="5">Adobe</string></value>
+<key>Ordering</key>
+<value><string size="3">UCS</string></value>
+<key>Supplement</key>
+<value><number>0</number></value>
+</dict></value>
+<key>FontDescriptor</key>
+<value><ref id="18" /></value>
+<key>CIDToGIDMap</key>
+<value><literal>Identity</literal></value>
+<key>DW</key>
+<value><number>556</number></value>
+<key>W</key>
+<value><list size="23">
+<number>0</number>
+<list size="4">
+<number>750</number>
+<number>0</number>
+<number>0</number>
+<number>277</number>
+</list>
+<number>4</number>
+<number>19</number>
+<number>0</number>
+<number>20</number>
+<number>21</number>
+<number>556</number>
+<number>22</number>
+<number>71</number>
+<number>0</number>
+<number>72</number>
+<list size="4">
+<number>556</number>
+<number>0</number>
+<number>0</number>
+<number>556</number>
+</list>
+<number>76</number>
+<number>78</number>
+<number>0</number>
+<number>79</number>
+<list size="4">
+<number>222</number>
+<number>833</number>
+<number>556</number>
+<number>556</number>
+</list>
+<number>83</number>
+<number>86</number>
+<number>0</number>
+<number>87</number>
+<list size="1">
+<number>277</number>
+</list>
+</list></value>
+</dict>
+</object>
+
+<object id="17">
+<stream>
+<props>
+<dict size="2">
+<key>Filter</key>
+<value><literal>FlateDecode</literal></value>
+<key>Length</key>
+<value><ref id="20" /></value>
+</dict>
+</props>
+</stream>
+</object>
+
+<object id="18">
+<dict size="10">
+<key>Type</key>
+<value><literal>FontDescriptor</literal></value>
+<key>FontName</key>
+<value><literal>MUFUZY+ArialMT</literal></value>
+<key>Flags</key>
+<value><number>4</number></value>
+<key>FontBBox</key>
+<value><list size="4">
+<number>-664</number>
+<number>-324</number>
+<number>2000</number>
+<number>1005</number>
+</list></value>
+<key>Ascent</key>
+<value><number>728</number></value>
+<key>Descent</key>
+<value><number>-210</number></value>
+<key>ItalicAngle</key>
+<value><number>0</number></value>
+<key>CapHeight</key>
+<value><number>716</number></value>
+<key>StemV</key>
+<value><number>80</number></value>
+<key>FontFile2</key>
+<value><ref id="19" /></value>
+</dict>
+</object>
+
+<object id="19">
+<stream>
+<props>
+<dict size="2">
+<key>Filter</key>
+<value><literal>FlateDecode</literal></value>
+<key>Length</key>
+<value><ref id="21" /></value>
+</dict>
+</props>
+</stream>
+</object>
+
+<object id="20">
+<number>283</number>
+</object>
+
+<object id="21">
+<number>12847</number>
+</object>
+
+<trailer>
+<dict size="3">
+<key>Size</key>
+<value><number>22</number></value>
+<key>Root</key>
+<value><ref id="4" /></value>
+<key>Info</key>
+<value><ref id="5" /></value>
+</dict>
+</trailer>
+
+<trailer>
+<dict size="3">
+<key>Size</key>
+<value><number>22</number></value>
+<key>Root</key>
+<value><ref id="4" /></value>
+<key>Info</key>
+<value><ref id="5" /></value>
+</dict>
+</trailer>
+
+</pdf>
